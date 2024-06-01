@@ -51,6 +51,9 @@ import random
 
 # Installation - build a desktop app (MacOS)
 
+- I have provide a zip file (stargame.zip). Just download and unzip it. Enjoy playing!
+
+- I also provide a guide to manually build it here. Just follow the steps.
 - Make the game to desktop app using py2app
 - First, install the py2app
 
